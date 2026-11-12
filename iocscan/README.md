@@ -1,6 +1,6 @@
 # 🧲 IOCScan
 
-![CI](https://github.com/Taha2025/iocscan/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Taha2045/iocscan/actions/workflows/ci.yml/badge.svg)
 ![C++17](https://img.shields.io/badge/C%2B%2B-17-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
