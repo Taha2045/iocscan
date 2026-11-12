@@ -1,0 +1,4 @@
+# IOC list: <sha256> [description]
+# Simulated sample for the demo (see samples/make_demo.sh) - the "malware" is a harmless text string
+3f7b480941a6a62d521f718070286efb9ed68511247dfda22cfe0a6cae665e81  Simulated dropper (demo payload)
+# Real feeds: MalwareBazaar, abuse.ch, or your internal threat-intel exports
